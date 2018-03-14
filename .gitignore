@@ -63,7 +63,6 @@ typings/
 # compiled file, dont want that
 index.min.js
 
-code/game_engine
 include/
 
 *.pem
