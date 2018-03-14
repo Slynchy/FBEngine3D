@@ -1,0 +1,1 @@
+This (AtlaEngine) is for internal/private use only. Unless written authorisation from the author (Sam Lynch) is obtained, do not use this project in any form.

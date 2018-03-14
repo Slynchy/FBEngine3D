@@ -1,0 +1,17 @@
+{
+  "name": "FBEngineTemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TotallyNotAPseudonym",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^15.2.0",
+    "js-easing-functions": "^1.0.2",
+    "three": "^0.91.0"
+  }
+}
